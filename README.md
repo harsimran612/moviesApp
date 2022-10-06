@@ -1,7 +1,6 @@
 # moviesApp
 Movies App
 
-The repository is an assignment which includes Movies App.
 
 To run the Project - 
 
